@@ -4,19 +4,19 @@
   <tr>
     <td valign="top" width="50%">
       
-🔹 [**Fetch-EmAll**](https://github.com/yourusername/Fetch-EmAll)  
+🔹 [**Fetch-EmAll**](https://github.com/BitForge95/Fetch-EmAll)  
 ⚡ *A fun project for fetching Pokémon.*  
 🟨 JavaScript &nbsp;&nbsp; ⭐ 1
 
 ---
 
-🔹 [**crud-react**](https://github.com/yourusername/crud-react)  
+🔹 [**crud-react**](https://github.com/BitForge95/crud-react)  
 🛠️ *Simple CRUD app using React.*  
 🟨 JavaScript
 
 ---
 
-🔹 [**Quizzical**](https://github.com/yourusername/Quizzical)  
+🔹 [**Quizzical**](https://github.com/BitForge95/Quizzical)  
 🧠 *A fun little quiz app.*  
 🟨 JavaScript
 
@@ -24,19 +24,19 @@
     
    <td valign="top" width="50%">
      
-🔹 [**BitForge95**](https://github.com/yourusername/BitForge95)  
+🔹 [**BitForge95**](https://github.com/BitForge95/BitForge95)  
 🔧 *(No description yet)*  
 ⚙️ –
 
 ---
 
-🔹 [**Markdown-Previewer**](https://github.com/yourusername/Markdown-Previewer)  
+🔹 [**Markdown-Previewer**](https://github.com/BitForge95/Markdown-Previewer)  
 📝 *Live Markdown previewer.*  
 🟪 CSS
 
 ---
 
-🔹 [**Todo-React**](https://github.com/yourusername/Todo-React)  
+🔹 [**Todo-React**](https://github.com/BitForge95/Todo-React)  
 ✅ *Simple React to-do list.*  
 🟨 JavaScript
 
@@ -45,5 +45,5 @@
 </table>
 
 <p align="center">
-  🔍 <a href="https://github.com/yourusername?tab=repositories">Show More</a> 🔍
+  🔍 <a href="https://github.com/BitForge95?tab=repositories">Show More</a> 🔍
 </p>
