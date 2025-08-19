@@ -13,13 +13,14 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
 ### 📍 Technologies I've used & Skills I've acquired
 
 #### Databases 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
 
 #### Web Dev Stack 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,13 +33,13 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 #### DevOps & Tools 
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-9CF?style=for-the-badge&logo=nmap&logoColor=white)
 
@@ -90,7 +91,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BitForge95/NodeRoom" title="NodeRoom"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BitForge95&repo=NodeRoom&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/BitForge95/crud-react" title="Fetch-EmAll"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BitForge95&repo=Fetch-EmAll&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BitForge95/Fetch-EmAll" title="Fetch-EmAll"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BitForge95&repo=Fetch-EmAll&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
